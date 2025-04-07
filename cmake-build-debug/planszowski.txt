@@ -1,0 +1,2 @@
+Catan Kosmos 3 4 90 5 8
+Azul Planeta 2 4 45 4 7

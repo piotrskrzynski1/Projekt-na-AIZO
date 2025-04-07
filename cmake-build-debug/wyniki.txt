@@ -1,0 +1,350 @@
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Integer
+Uzyty algorytm: BUBBLE SORT
+Srednia czasu wykonywania: 150 ms
+Min: 150 ms Max: 150 ms 
+Mediana czasu wykonywania: 150 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Float
+Uzyty algorytm: BUBBLE SORT
+Srednia czasu wykonywania: 154 ms
+Min: 154 ms Max: 154 ms 
+Mediana czasu wykonywania: 154 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Double
+Uzyty algorytm: BUBBLE SORT
+Srednia czasu wykonywania: 157 ms
+Min: 157 ms Max: 157 ms 
+Mediana czasu wykonywania: 157 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Char
+Uzyty algorytm: BUBBLE SORT
+Srednia czasu wykonywania: 32 ms
+Min: 32 ms Max: 32 ms 
+Mediana czasu wykonywania: 32 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Planszowka
+Uzyty algorytm: BUBBLE SORT
+Srednia czasu wykonywania: 4379 ms
+Min: 4379 ms Max: 4379 ms 
+Mediana czasu wykonywania: 4379 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Integer
+Uzyty algorytm: QUICK SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Float
+Uzyty algorytm: QUICK SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Double
+Uzyty algorytm: QUICK SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Char
+Uzyty algorytm: QUICK SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Planszowka
+Uzyty algorytm: QUICK SORT
+Srednia czasu wykonywania: 15 ms
+Min: 15 ms Max: 15 ms 
+Mediana czasu wykonywania: 15 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Integer
+Uzyty algorytm: MERGE SORT
+Srednia czasu wykonywania: 1 ms
+Min: 1 ms Max: 1 ms 
+Mediana czasu wykonywania: 1 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Float
+Uzyty algorytm: MERGE SORT
+Srednia czasu wykonywania: 1 ms
+Min: 1 ms Max: 1 ms 
+Mediana czasu wykonywania: 1 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Double
+Uzyty algorytm: MERGE SORT
+Srednia czasu wykonywania: 1 ms
+Min: 1 ms Max: 1 ms 
+Mediana czasu wykonywania: 1 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Char
+Uzyty algorytm: MERGE SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Planszowka
+Uzyty algorytm: MERGE SORT
+Srednia czasu wykonywania: 18 ms
+Min: 18 ms Max: 18 ms 
+Mediana czasu wykonywania: 18 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Integer
+Uzyty algorytm: INSERTION SORT
+Srednia czasu wykonywania: 5 ms
+Min: 5 ms Max: 5 ms 
+Mediana czasu wykonywania: 5 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Float
+Uzyty algorytm: INSERTION SORT
+Srednia czasu wykonywania: 8 ms
+Min: 8 ms Max: 8 ms 
+Mediana czasu wykonywania: 8 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Double
+Uzyty algorytm: INSERTION SORT
+Srednia czasu wykonywania: 8 ms
+Min: 8 ms Max: 8 ms 
+Mediana czasu wykonywania: 8 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Char
+Uzyty algorytm: INSERTION SORT
+Srednia czasu wykonywania: 5 ms
+Min: 5 ms Max: 5 ms 
+Mediana czasu wykonywania: 5 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Planszowka
+Uzyty algorytm: INSERTION SORT
+Srednia czasu wykonywania: 1466 ms
+Min: 1466 ms Max: 1466 ms 
+Mediana czasu wykonywania: 1466 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Integer
+Uzyty algorytm: BINARY INSERTION SORT
+Srednia czasu wykonywania: 4 ms
+Min: 4 ms Max: 4 ms 
+Mediana czasu wykonywania: 4 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Float
+Uzyty algorytm: BINARY INSERTION SORT
+Srednia czasu wykonywania: 1 ms
+Min: 1 ms Max: 1 ms 
+Mediana czasu wykonywania: 1 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Double
+Uzyty algorytm: BINARY INSERTION SORT
+Srednia czasu wykonywania: 3 ms
+Min: 3 ms Max: 3 ms 
+Mediana czasu wykonywania: 3 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Char
+Uzyty algorytm: BINARY INSERTION SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Planszowka
+Uzyty algorytm: BINARY INSERTION SORT
+Srednia czasu wykonywania: 1443 ms
+Min: 1443 ms Max: 1443 ms 
+Mediana czasu wykonywania: 1443 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Integer
+Uzyty algorytm: SHELL SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Float
+Uzyty algorytm: SHELL SORT
+Srednia czasu wykonywania: 2 ms
+Min: 2 ms Max: 2 ms 
+Mediana czasu wykonywania: 2 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Double
+Uzyty algorytm: SHELL SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Char
+Uzyty algorytm: SHELL SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Planszowka
+Uzyty algorytm: SHELL SORT
+Srednia czasu wykonywania: 28 ms
+Min: 28 ms Max: 28 ms 
+Mediana czasu wykonywania: 28 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Integer
+Uzyty algorytm: HEAP SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Float
+Uzyty algorytm: HEAP SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Double
+Uzyty algorytm: HEAP SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Char
+Uzyty algorytm: HEAP SORT
+Srednia czasu wykonywania: 0 ms
+Min: 0 ms Max: 0 ms 
+Mediana czasu wykonywania: 0 ms
+
+CORRECTLY SORTED
+
+Wywolania: 1
+Rozmiar tablic: 10000
+Typ danych: Planszowka
+Uzyty algorytm: HEAP SORT
+Srednia czasu wykonywania: 30 ms
+Min: 30 ms Max: 30 ms 
+Mediana czasu wykonywania: 30 ms
+

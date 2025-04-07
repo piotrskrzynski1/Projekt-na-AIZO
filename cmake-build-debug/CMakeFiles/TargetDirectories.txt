@@ -1,0 +1,3 @@
+C:/Users/piotr/Downloads/projektaizofun/projektaizofun/cmake-build-debug/CMakeFiles/projektaizofun.dir
+C:/Users/piotr/Downloads/projektaizofun/projektaizofun/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/piotr/Downloads/projektaizofun/projektaizofun/cmake-build-debug/CMakeFiles/rebuild_cache.dir

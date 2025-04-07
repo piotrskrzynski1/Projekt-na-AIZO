@@ -1,0 +1,23 @@
+# ninja log v6
+15	522	7656912141140722	CMakeFiles/projektaizofun.dir/ClassesAndHeaders/ArgumentHolder.cpp.obj	7dd0dabc8fb9f42d
+10	1136	7656912141095514	CMakeFiles/projektaizofun.dir/ClassesAndHeaders/Timer.cpp.obj	e9f6d287ccfced23
+6	6125	7656912141043651	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+6127	6399	7656912202256028	projektaizofun.exe	657047551ab94757
+8	5988	7656912652462874	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5989	6104	7656912712266102	projektaizofun.exe	657047551ab94757
+12	5792	7656915179999152	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5792	5918	7656915237799931	projektaizofun.exe	657047551ab94757
+5	5606	7656916678327313	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5606	5709	7656916734329728	projektaizofun.exe	657047551ab94757
+7	6034	7656927163499975	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+6035	6159	7656927223765076	projektaizofun.exe	657047551ab94757
+7	5672	7656927882210342	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5672	5779	7656927938863971	projektaizofun.exe	657047551ab94757
+5	5609	7656929017511286	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5609	5713	7656929073552822	projektaizofun.exe	657047551ab94757
+5	5556	7656930426938975	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5556	5658	7656930482450047	projektaizofun.exe	657047551ab94757
+6	5510	7656930916040184	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5511	5603	7656930971085327	projektaizofun.exe	657047551ab94757
+6	5362	7656931727257563	CMakeFiles/projektaizofun.dir/main.cpp.obj	93e97398c33ad4a4
+5363	5459	7656931780812131	projektaizofun.exe	657047551ab94757
